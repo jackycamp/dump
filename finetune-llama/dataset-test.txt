@@ -1,0 +1,9 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What is taking up the most space?
+
+### Response:
+du -a / | sort -n -r | head -n 10
+
+### End
