@@ -1,0 +1,3 @@
+[submodule "finetune-llama/third_party/llama-recipes"]
+	path = finetune-llama/third_party/llama-recipes
+	url = https://github.com/facebookresearch/llama-recipes.git
